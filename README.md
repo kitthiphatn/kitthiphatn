@@ -71,6 +71,8 @@ A comprehensive hospital management system built with C# .NET Framework
 
 **Design Patterns:** Singleton, Repository, Service Layer
 
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitthiphatn/HospitalMS)
+
 ---
 
 ### 💬 [Mini Chat Ollama](https://github.com/kitthiphatn/minichat-project-test-api)
@@ -86,16 +88,23 @@ Full-stack chat application with multi-provider AI support
 - 📱 Responsive Design
 - 🔒 Secure API Integration
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://chat.clubfivem.com)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitthiphatn/minichat-project-test-api)
+
 ---
 
 ### 🛒 [Social Monitor](https://github.com/kitthiphatn/Social-Monitor)
 Social media monitoring and analytics platform
 
 **Tech Stack:**
-- Technologies used in your project
+- Python, Web Scraping, Data Analytics
 
 **Features:**
-- Key features of your project
+- 📊 Social Media Analytics
+- 🔍 Real-time Monitoring
+- 📈 Data Visualization
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitthiphatn/Social-Monitor)
 
 ---
 
@@ -103,19 +112,17 @@ Social media monitoring and analytics platform
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitthiphatn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/kitthiphatn)
+<img src="https://github-readme-stats.vercel.app/api?username=kitthiphatn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitthiphatn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/kitthiphatn)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitthiphatn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kitthiphatn&theme=tokyonight&hide_border=true)](https://github.com/kitthiphatn)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kitthiphatn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-> **Note:** Stats may take a few seconds to load. If they don't appear, try refreshing the page.
-
 ---
 
-## 💼 What I'm Working On
+##  What I'm Working On
 
 - 🏥 Enhancing Hospital Management System with advanced features
 - 🌐 Building full-stack web applications with modern frameworks
