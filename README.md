@@ -93,7 +93,26 @@ Full-stack chat application with multi-provider AI support
 
 ---
 
-### 🛒 [Social Monitor](https://github.com/kitthiphatn/Social-Monitor)
+### 🛒 [Local POS System](https://github.com/kitthiphatn/local-pos-system)
+Point of Sale system for local businesses with inventory management
+
+**Tech Stack:**
+- Next.js 14, React 18, Tailwind CSS
+- Modern UI/UX Design
+
+**Features:**
+- 🛍️ Product Management
+- 💰 Sales Processing
+- 📊 Inventory Tracking
+- 📈 Sales Reports
+- 🎨 Modern Interface
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://pos.clubfivem.com)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitthiphatn/local-pos-system)
+
+---
+
+### 📊 [Social Monitor](https://github.com/kitthiphatn/Social-Monitor)
 Social media monitoring and analytics platform
 
 **Tech Stack:**
@@ -157,6 +176,7 @@ Social media monitoring and analytics platform
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-kitthiphatn-181717?style=for-the-badge&logo=github)](https://github.com/kitthiphatn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kitthiphatn)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
