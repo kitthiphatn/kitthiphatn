@@ -102,14 +102,16 @@ Social media monitoring and analytics platform
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitthiphatn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitthiphatn&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitthiphatn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/kitthiphatn)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitthiphatn&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitthiphatn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/kitthiphatn)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kitthiphatn&theme=tokyonight&hide_border=true)](https://github.com/kitthiphatn)
 
 </div>
+
+> **Note:** Stats may take a few seconds to load. If they don't appear, try refreshing the page.
 
 ---
 
