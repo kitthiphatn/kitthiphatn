@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+.NET+Enthusiast;Database+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+.NET+Enthusiast;PHP+Laravel+Developer;Database+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,55 +10,46 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about **C# .NET Development** and **Database Design**
+- 💻 Passionate about **C# .NET Development**, **PHP Laravel**, and **Database Design**
 - 🏥 Currently building a **Hospital Management System** with C# .NET Framework
+- 🌐 Experienced in **Full-Stack Web Development** (Next.js, React, Express.js)
 - 🌱 Learning **3-Tier Architecture**, **Design Patterns**, and **Best Practices**
 - 🎯 Goal: Create robust, scalable, and maintainable applications
 - 📚 Love documenting and teaching what I learn
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Technologies
-![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & IDEs
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitthiphatn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitthiphatn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitthiphatn&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -66,139 +57,111 @@
 
 ### 🏥 [Hospital Management System](https://github.com/kitthiphatn/HospitalMS)
 A comprehensive hospital management system built with C# .NET Framework
-- **Tech Stack:** C#, Windows Forms, SQL Server, ADO.NET
-- **Architecture:** 3-Tier (Presentation, Business Logic, Data Access)
-- **Features:** Patient Management, Doctor Scheduling, Billing, Pharmacy, Medical Records
-- **Design Patterns:** Singleton, Repository, Service Layer
 
-### 📱 [Project Name 2](https://github.com/kitthiphatn/PROJECT2)
-Brief description of your second project
-- **Tech Stack:** Technologies used
-- **Key Features:** Main features
+**Tech Stack:**
+- C#, Windows Forms, SQL Server, ADO.NET
+- Architecture: 3-Tier (Presentation, Business Logic, Data Access)
 
-### 🌐 [Project Name 3](https://github.com/kitthiphatn/PROJECT3)
-Brief description of your third project
-- **Tech Stack:** Technologies used
-- **Key Features:** Main features
+**Features:**
+- 👥 Patient Management
+- 👨‍⚕️ Doctor Scheduling
+- 💰 Billing System
+- 💊 Pharmacy Management
+- 📋 Medical Records
+
+**Design Patterns:** Singleton, Repository, Service Layer
+
+---
+
+### 💬 [Mini Chat Ollama](https://github.com/kitthiphatn/minichat-project-test-api)
+Full-stack chat application with multi-provider AI support
+
+**Tech Stack:**
+- Next.js 14, React 18, Express.js, MongoDB
+- Tailwind CSS, Cloudflare Tunnel
+
+**Features:**
+- 🤖 Multi-AI Provider Support (Ollama, OpenRouter, Groq, Anthropic)
+- 💬 Real-time Chat Interface
+- 📱 Responsive Design
+- 🔒 Secure API Integration
+
+---
+
+### 🛒 [Social Monitor](https://github.com/kitthiphatn/Social-Monitor)
+Social media monitoring and analytics platform
+
+**Tech Stack:**
+- Technologies used in your project
+
+**Features:**
+- Key features of your project
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitthiphatn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitthiphatn&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitthiphatn&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 💼 What I'm Working On
 
-```csharp
-public class CurrentFocus
-{
-    public string[] LearningTopics = new string[]
-    {
-        "Advanced C# Concepts",
-        "Entity Framework",
-        "ASP.NET Core",
-        "Design Patterns",
-        "Clean Architecture",
-        "Unit Testing"
-    };
-    
-    public string CurrentProject = "Hospital Management System";
-    
-    public void DisplayGoals()
-    {
-        Console.WriteLine("🎯 Building enterprise-level applications");
-        Console.WriteLine("📚 Mastering software architecture");
-        Console.WriteLine("🚀 Contributing to open source");
-    }
-}
-```
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kitthiphatn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF)
-
-</div>
+- 🏥 Enhancing Hospital Management System with advanced features
+- 🌐 Building full-stack web applications with modern frameworks
+- 📚 Learning Laravel for PHP backend development
+- 🎨 Improving UI/UX design skills
+- 📖 Writing technical documentation and tutorials
 
 ---
 
 ## 🎓 Learning Journey
 
-- ✅ C# Fundamentals
-- ✅ Object-Oriented Programming
-- ✅ SQL & Database Design
-- ✅ ADO.NET & Data Access
-- 🔄 Entity Framework
-- 🔄 ASP.NET Core
-- 📝 Design Patterns
-- 📝 Microservices Architecture
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kitthiphatn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitthiphatn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kitthiphat/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ktthiphat.n@gmail.com)
-
-</div>
+- ✅ C# .NET Framework & Windows Forms
+- ✅ 3-Tier Architecture & Design Patterns
+- ✅ SQL Server & Database Design
+- ✅ Next.js 14 & React 18
+- ✅ Express.js & MongoDB
+- 🔄 **PHP Laravel** (Currently Learning)
+- 🔄 ASP.NET Core MVC
+- 🔄 Microservices Architecture
 
 ---
 
 ## 💡 Fun Facts
 
-- 🎯 I love solving complex problems with elegant solutions
-- 📖 I document everything I learn to help others
-- 🌏 Based in Thailand 🇹🇭
-- ☕ Fueled by coffee and curiosity
-- 🎮 When not coding, I enjoy gaming and exploring new technologies
+- 🎯 I believe in writing clean, maintainable code
+- 📝 I document everything I learn
+- 🤝 Open to collaboration on interesting projects
+- ☕ Powered by coffee and curiosity
 
 ---
 
-## 📝 Latest Blog Posts
+## 📫 How to Reach Me
 
-<!-- BLOG-POST-LIST:START -->
-- [Building a Hospital Management System with C# - Part 1](https://your-blog.com)
-- [Understanding 3-Tier Architecture in .NET](https://your-blog.com)
-- [Design Patterns Every Developer Should Know](https://your-blog.com)
-- [SQL Server Best Practices for Beginners](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
+[![GitHub](https://img.shields.io/badge/GitHub-kitthiphatn-181717?style=for-the-badge&logo=github)](https://github.com/kitthiphatn)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 ## 🎨 Profile Views
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=kitthiphatn&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=kitthiphatn&color=blueviolet&style=for-the-badge)
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
+### ⚡ *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
-
----
-
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
+**Thanks for visiting! 😊**
 
 </div>
