@@ -130,20 +130,19 @@ Social media monitoring and analytics platform
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- GitHub Profile Summary Cards -->
+<!-- Profile Details -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitthiphatn&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitthiphatn&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kitthiphatn&theme=tokyonight)
-
+<!-- Stats & Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitthiphatn&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitthiphatn&theme=tokyonight" alt="Top Languages" />
+</p>
+<!-- Productive Time (GMT+7) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kitthiphatn&theme=tokyonight&utcOffset=7)
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitthiphatn&theme=tokyonight&hide_border=true)
-
 <!-- GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=kitthiphatn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
 </div>
 
 ---
