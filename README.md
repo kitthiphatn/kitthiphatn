@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/kitthiphatn"><img src="https://img.shields.io/badge/GitHub-kitthiphatn-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/kitthiphatn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kitthiphat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=kitthiphatn&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </p>
 
@@ -18,7 +18,7 @@
 - 🌱 Currently exploring **Cloud Technologies** and **DevOps**
 - 🎯 Building innovative solutions with **Python**, **JavaScript**, and **C#**
 - 🤖 Interested in **AI/ML**, **Automation**, and **Web Scraping**
-- 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 Reach me at: **[ktthiphat.n@gmail.com](mailto:ktthiphat.n@gmail.com)**
 
 ---
 
@@ -83,7 +83,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitthiphatn&theme=tokyonight" alt="Top Languages" width="400" />
 </p>
 
-<!-- Repos per Language & Commits -->
+<!-- Repos per Language & Productive Time -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitthiphatn&theme=tokyonight" alt="Repos per Language" width="400" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kitthiphatn&theme=tokyonight&utcOffset=7" alt="Productive Time (GMT+7)" width="400" />
@@ -101,17 +101,10 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
-[![Mini Chat Ollama](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kitthiphatn&repo=minichat-project-test-api&theme=tokyonight&hide_border=true)](https://github.com/kitthiphatn/minichat-project-test-api)
-[![Social Monitor](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kitthiphatn&repo=Social-Monitor&theme=tokyonight&hide_border=true)](https://github.com/kitthiphatn/Social-Monitor)
-
-</div>
-
 ### 💼 Notable Projects
 
-- 🤖 **Mini Chat Ollama** - AI-powered chat application with multiple LLM providers (Ollama, Groq, OpenRouter, Gemini)
-- 📱 **Social Monitor** - Social media monitoring and analytics platform
+- 🤖 **[Mini Chat Ollama](https://github.com/kitthiphatn/minichat-project-test-api)** - AI-powered chat application with multiple LLM providers (Ollama, Groq, OpenRouter, Gemini)
+- 📱 **[Social Monitor](https://github.com/kitthiphatn/Social-Monitor)** - Social media monitoring and analytics platform
 - 🏥 **Hospital Management System** - Comprehensive C# .NET hospital management solution
 - 🛒 **Local POS System** - Point of Sale system for retail businesses
 - 🎬 **TikTok Auto Video Generator** - Automated video generation and publishing system
