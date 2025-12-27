@@ -100,7 +100,11 @@
 ---
 
 ## 🏆 Featured Projects
+<div align="center">
+  
+[![Mini Chat Ollama](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kitthiphatn&repo=minichat-project-test-api&theme=tokyonight&hide_border=true)](https://github.com/kitthiphatn/minichat-project-test-api)
 
+</div>
 ### 💼 Notable Projects
 
 - 🤖 **[Mini Chat Ollama](https://github.com/kitthiphatn/minichat-project-test-api)** - AI-powered chat application with multiple LLM providers (Ollama, Groq, OpenRouter, Gemini)
