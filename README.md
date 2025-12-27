@@ -125,27 +125,26 @@ Social media monitoring and analytics platform
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitthiphatn/Social-Monitor)
 
----
-
 ## 📊 GitHub Stats
-
 <div align="center">
 <!-- Profile Details -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitthiphatn&theme=tokyonight)
 <!-- Stats & Languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitthiphatn&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitthiphatn&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitthiphatn&theme=tokyonight" alt="Stats" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitthiphatn&theme=tokyonight" alt="Top Languages" width="400" />
 </p>
-<!-- Productive Time (GMT+7) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kitthiphatn&theme=tokyonight&utcOffset=7)
+<!-- Repos per Language & Commits -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitthiphatn&theme=tokyonight" alt="Repos per Language" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kitthiphatn&theme=tokyonight&utcOffset=7" alt="Productive Time (GMT+7)" width="400" />
+</p>
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitthiphatn&theme=tokyonight&hide_border=true)
 <!-- GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=kitthiphatn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 </div>
-
----
+>
 
 ##  What I'm Working On
 
